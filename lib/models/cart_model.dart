@@ -1,6 +1,3 @@
-import 'package:health_checkups_app/models/package_model.dart';
-import 'lab_test_model.dart';
-
 class CartItem{
   String testName = "";
   int maxPrice = 0;

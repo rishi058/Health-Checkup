@@ -5,7 +5,7 @@ import 'package:health_checkups_app/models/cart_model.dart';
 import 'package:health_checkups_app/sizer/sizer.dart';
 import 'package:health_checkups_app/ui_components/buttons/report_radio.dart';
 import 'package:health_checkups_app/ui_components/cards/cart_card.dart';
-import 'package:health_checkups_app/ui_components/cards/dateTime_card.dart';
+import 'package:health_checkups_app/ui_components/cards/date_time_card.dart';
 
 import '../ui_components/cards/receipt_card.dart';
 

@@ -23,6 +23,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        automaticallyImplyLeading: false,
         title: Text(
           'Logo',
           style: TextStyle(fontWeight: FontWeight.w600, fontSize: 15.sp),

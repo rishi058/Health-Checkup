@@ -92,7 +92,7 @@ packages:
     source: sdk
     version: "0.0.0"
   google_fonts:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: google_fonts
       sha256: f0b8d115a13ecf827013ec9fc883390ccc0e87a96ed5347a3114cac177ef18e8
@@ -116,7 +116,7 @@ packages:
     source: hosted
     version: "4.0.2"
   intl:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: intl
       sha256: "3bc132a9dbce73a7e4a21a17d06e1878839ffbf975568bc875c60537824b0c4d"
@@ -228,7 +228,7 @@ packages:
     source: hosted
     version: "2.1.7"
   responsive_framework:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: responsive_framework
       sha256: e083346029b008335b008274c4d3fac5b9e0ca8796f201ed20884f579101d584
@@ -281,7 +281,7 @@ packages:
     source: hosted
     version: "23.2.7"
   syncfusion_flutter_datepicker:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: syncfusion_flutter_datepicker
       sha256: b3340a7786f674d18bd22c226358648985e7631734dfc4aae09fdcfb71c09156

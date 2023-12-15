@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:health_checkups_app/color-palette/colors.dart';
-import 'package:health_checkups_app/models/cart_model.dart';
 import 'package:health_checkups_app/sizer/sizer.dart';
 
 Widget remove(){

@@ -41,8 +41,6 @@ class _DateTimeScreenState extends State<DateTimeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    print(myDate);
-    print(myTime);
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(
