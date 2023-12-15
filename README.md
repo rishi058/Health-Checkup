@@ -1,16 +1,3 @@
 # health_checkups_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![01](https://github.com/rishi058/Health-Checkup/assets/97884033/a38ae9fb-12ad-4861-941e-4aba06ea1426)
+![02](https://github.com/rishi058/Health-Checkup/assets/97884033/b9f6c28c-99e3-406d-adbf-6646a595f7a9)
